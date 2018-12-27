@@ -7,7 +7,7 @@ The aim of this project is to create a Kalman Filter library with a very low lev
 The library is planned to support Extended Kalman Filter and Unscented Kalman Filter.
 
 * [Demo]()
-* [Examples](http://www.google.com)
+* [Examples]()
 * [Documentation]()
 * [General Kalman Filter Usage]()
 
